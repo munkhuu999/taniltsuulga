@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className=" container">
       <HeaderComponent />
-      <div className=" mt-3 mb-5">
+      <div className=" mt-3 mb-5 text-center">
         <h1 className="mt-3 text-center">Амины орон сууцны танилцуулга</h1>
         <p className="mt-3" style={{ fontSize: "20px", fontWeight: "bold" }}>
           70мк байрны Эрчим хүчний хэмнэлтийн гэрчилгээтэй Төрийн болон Хаан
