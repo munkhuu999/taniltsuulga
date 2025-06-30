@@ -11,7 +11,7 @@ export default function Home() {
           70мк байрны Эрчим хүчний хэмнэлтийн гэрчилгээтэй Төрийн болон Хаан
           банкаар ногоон зээлийн захиалга авна.
         </p>
-        <div className="row g-3">
+        <div className="row g-2">
           <div className=" col-12 col-md-6">
             <ImageBox imgurl="/zurag/1-1.jpg" />
           </div>

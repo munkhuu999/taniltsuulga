@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function HeaderComponent() {
   return (
     <div>
-      <Image src="/logo.svg" alt="logo" width={100} height={100} />
+      <Image src="/zurag/icon1.webp" alt="logo" width={1500} height={250} />
     </div>
   );
 }
